@@ -1,0 +1,7 @@
+name "fe-wrapper"
+description "A minimal D application."
+authors "hatf0"
+copyright "Copyright © 2021, hatf0"
+license "proprietary"
+dependency "dmd" path="../dmd"
+lflags "--allow-undefined" "--export=__heap_base" "--export=__data_end" "--initial-memory=134217728"
