@@ -1,0 +1,17 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/fe-wrapper
+fe-wrapper.so
+fe-wrapper.dylib
+fe-wrapper.dll
+fe-wrapper.a
+fe-wrapper.lib
+fe-wrapper-test-*
+sandbox/
+*.wasm
+*.exe
+*.o
+*.obj
+*.lst
