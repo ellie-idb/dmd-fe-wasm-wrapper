@@ -1,4 +1,4 @@
 [submodule "subprojects/dmd"]
 	path = subprojects/dmd
-	url = git@github.com:hatf0/dmd-wasm.git
+	url = https://github.com/hatf0/dmd-wasm.git
 	branch = wasm-compile
